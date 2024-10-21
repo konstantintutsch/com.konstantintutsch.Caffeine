@@ -28,6 +28,8 @@ modules:
     run-tests: false
     config-opts:
       - -Dprofile=default
+      - -Dbuildtype=release
+      - -Dwarning_level=2
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Caffeine.git
