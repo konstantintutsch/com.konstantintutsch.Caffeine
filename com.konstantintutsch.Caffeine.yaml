@@ -5,7 +5,7 @@ sdk: org.gnome.Sdk
 command: com.konstantintutsch.Caffeine
 finish-args:
   - --device=dri
-  - --share=ipc  
+  - --share=ipc
   - --socket=wayland
   - --socket=fallback-x11
 cleanup:
@@ -33,5 +33,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Caffeine.git
-        tag: v1.0.5+2
-        commit: 8199a6ba1c6b895a7a248d8e6328b75639bfa179
+        tag: v1.0.5+3
+        commit: dec6a5a977a7e62c3fbbbe9b3929636eb54d5c45
