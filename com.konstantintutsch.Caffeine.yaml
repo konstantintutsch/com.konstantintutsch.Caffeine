@@ -33,5 +33,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/konstantintutsch/Caffeine.git
-        tag: v1.0.6
-        commit: 010abd5c6dd1b84596cc5b3611208f6388f1bb1b
+        tag: v1.0.7
+        commit: d13c01ed4b0ae99b7919d6e147044c6eba05c58e
